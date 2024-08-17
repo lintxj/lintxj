@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋 My name is Alina
+======================
 
-<!--
-**lintxj/lintxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA тестировщик
+--------------
 
-Here are some ideas to get you started:
+Начинающий специалист, прошедший обучение на портале Hexlet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Петрозаводск
+*   ✉️  You can contact me at [le\_ciel007@mail.ru](mailto:le_ciel007@mail.ru)
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/lintxj" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
