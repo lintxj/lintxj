@@ -11,7 +11,7 @@
 - Составлены баг-репорты
 - Проведено регрессионное тестирование
 
-#### 1. [Тестирование в продакшене](https://github.com/lintxj/qa-engineer-project-85)
+#### 2. [Тестирование в продакшене](https://github.com/lintxj/qa-engineer-project-85)
 [Codebattle](https://codebattle.hexlet.io/) — тестируемый проект
 
 Что сделано:
